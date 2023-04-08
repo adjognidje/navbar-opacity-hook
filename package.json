@@ -1,0 +1,29 @@
+{
+  "name": "navbar-opacity-hook",
+  "version": "1.0.0",
+  "description": "A custom React hook to adjust the opacity of a navbar based on scroll position.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel index.js --out-file dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adjognidje/navbar-opacity-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "navbar",
+    "opacity",
+    "scroll"
+  ],
+  "author": "John Ghislain adjognidje",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-react": "^7.18.6"
+  }
+}

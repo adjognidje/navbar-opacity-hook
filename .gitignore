@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules
+
+# Build artifacts
+dist
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
